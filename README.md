@@ -1,5 +1,3 @@
-I apologize for any confusion. Here's the translation of the content you provided:
-
 # gdextension
 
 GDExtension模板，可以自动构建成一个独立的插件，用于Godot资产库。
